@@ -1,4 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou o Edison Franco - *Hi there! I am Edison Franco*👋
+
+- 🎓 Sou físico com doutorado em física teórica - <span style="color:blue;">*I am a physicist with a PhD in theoretical physics*</span>
+- 🔭 Atualmente estou trabalhando em alguma coisa legal em Ciência de Dados! - <span style="color:blue;">*I’m currently working on something cool in Data Science!*</span>
+- 🌱 Estudando e aprendendo Python e Machine Learning desde 2020 - <span style="color:blue;">*I’m learning Python and Machine Learning since 2020*</span>
+- 🤔 Estou buscando ajuda com Machine Learning e Deep Learning - <span style="color:blue;">*I’m looking for help with Machine Learning and Deep Learning*</span>
+- 📫 Como me encontrar: edisontfranco@gmail.com - <span style="color:blue;">*How to reach me: edisontfranco@gmail.com*</span>
+
+- 🧑‍💻 Com mais de vinte anos de experiência em programação, tenho utilizado intensivamente as seguintes linguagens e ferramentas: Mathematica, MatLab, Fortran, Excel, SQL e Python. Estou me capacitando cada vez mais em Machine Learning e Deep Learning para aplicação profissional e para análises de interesse acadêmico que contribuam para o desenvolvimento da ciência. Acima de tudo, estou estudando para empreender na área de ciência de dados e alcançar minha liberdade financeira. - <span style="color:blue;">*With over twenty years of experience in programming, I have extensively used the following languages and tools: Mathematica, MatLab, Fortran, Excel, SQL, and Python. I am increasingly training in Machine Learning and Deep Learning for professional applications and for academic analyses that contribute to the advancement of science. Above all, I am studying to become an entrepreneur in the field of data science and achieve my financial freedom.*</span>
+
+**Seja benvindo! - <span style="color:blue;">*Welcome!*</span>**
 
 <!--
 **edisontfranco/edisontfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
